@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 
 public class personInformation {
@@ -26,3 +26,4 @@ public class personInformation {
 	}
 
 }
+*/
